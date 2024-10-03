@@ -1,16 +1,16 @@
-<h1 align="left">Eae 👋 What's up?</h1>
+<h1 align="left">Hey 👋, como vai?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Vivendo e Aprendendo a Programação</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Curiosidades</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 Estudando <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
